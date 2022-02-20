@@ -1,0 +1,1 @@
+UTiling e VTiling TexCoord do Substance_Basic Template reduzido de 1.0 para 0.33 por causa da UV dos modelos do Level Stage
